@@ -13,4 +13,4 @@ Website: https://sites.google.com/view/la-genai/
 
 1. [Reading List](WORKSHOPS/LAK25/READINGLIST_BestPractices_LAK25.pdf)
 2. [Support material](WORKSHOPS/LAK25/Demo_LAK25_GenAI_Dashboard.html) in the form of an HTML dashboard. \
-***NOTE*** there is a QR code point to a google form to add best practices or relevant reading material.
+***NOTE*** there is a QR code pointing to a google form to add best practices or relevant reading material.
